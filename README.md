@@ -11,3 +11,4 @@ list of pet projects i wanted to develop
 8. truecaller integration
 9. android tv app(wallpapaer/motivational quotes/instagram/twitter profile display)
 10. startup wale like app along with company scrapping website
+11. work on instagram filter
