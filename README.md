@@ -9,3 +9,4 @@ list of pet projects i wanted to develop
 6. facebook check-in image(the map image) generation(for eg. checkin from Delhi to Bombay)
 7. tinder like follow/not follow for github user's
 8. truecaller integration
+9. android tv app(wallpapaer/motivational quotes/instagram/twitter profile display)
