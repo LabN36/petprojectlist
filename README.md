@@ -6,3 +6,4 @@ list of pet projects i wanted to develop
 3. VueJS, ReactJS OTP, Email, Social based login
 4. Comment System, UI,backend, Database
 5. invoice-generator.com like invoice generator
+6. facebook check-in image(the map image) generation(for eg. checkin from Delhi to Bombay)
