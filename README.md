@@ -10,3 +10,4 @@ list of pet projects i wanted to develop
 7. tinder like follow/not follow for github user's
 8. truecaller integration
 9. android tv app(wallpapaer/motivational quotes/instagram/twitter profile display)
+10. startup wale like app along with company scrapping website
