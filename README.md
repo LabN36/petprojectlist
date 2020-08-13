@@ -13,3 +13,4 @@ list of pet projects i wanted to develop
 10. startup wale like app along with company scrapping website
 11. work on instagram filter
 12. drag and drop based angularjs material UI/theme/admin panel
+13. PDF resume to small images to github readme file
