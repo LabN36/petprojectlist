@@ -14,3 +14,5 @@ list of pet projects i wanted to develop
 11. work on instagram filter
 12. drag and drop based angularjs material UI/theme/admin panel
 13. PDF resume to small images to github readme file
+14. happysale.in scrapper
+15. techjockey.com like product
