@@ -18,3 +18,4 @@ list of pet projects i wanted to develop
 15. techjockey.com like product
 16. amazon pay integration 
 17. facebook istantgame
+18. kapwing or ffmpeg related work
