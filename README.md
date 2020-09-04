@@ -20,3 +20,4 @@ list of pet projects i wanted to develop
 17. facebook istantgame
 18. kapwing or ffmpeg related work
 19. a website which runs cronjob to fetch starts on github's popular projects, so that we can do basic comparisons on packages quickly(not extensive like stackshare)
+20. landing page resume with visitor tracking using google analytics
