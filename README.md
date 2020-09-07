@@ -21,3 +21,5 @@ list of pet projects i wanted to develop
 18. kapwing or ffmpeg related work
 19. a website which runs cronjob to fetch starts on github's popular projects, so that we can do basic comparisons on packages quickly(not extensive like stackshare)
 20. landing page resume with visitor tracking using google analytics
+21. role and permission based basic project for deep understanding
+22. rate limiter based project for deep understanding 
