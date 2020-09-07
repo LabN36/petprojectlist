@@ -1,4 +1,4 @@
-# petprojectlist
+# Pet Projects List
 list of pet projects i wanted to develop
 
 1. flutter simple app like google task or trell
